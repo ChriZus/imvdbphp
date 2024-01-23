@@ -1,6 +1,6 @@
 imdbphp
 =======
-<!-- ALERT: The code has been forked from tboothman/imdbphp, which is an IMDB api. this library does not work at this time -->
+ALERT: The code has been forked from tboothman/imdbphp, which is an IMDB api. this library does not work at this time
 
 
 PHP library for retrieving music video information from IMVDb.
