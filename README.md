@@ -1,4 +1,4 @@
-imdbphp
+imvdbphp
 =======
 ALERT: The code has been forked from tboothman/imdbphp, which is an IMDB api. this library does not work at this time
 
